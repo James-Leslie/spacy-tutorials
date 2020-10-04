@@ -14,7 +14,7 @@ Re-usable code snippets for general NLP tasks using spaCy
     1.1) TFIDF transformer with custom spaCy tokenizer  
     1.2) scikit-Learn pipeline document classifier  
     2) Document vector classifier
-  3) **[Document similarity](https://github.com/James-Leslie/spacy-tutorials/blob/master/2_document_similarity.ipynb)**
+  3) **[Document similarity](https://github.com/James-Leslie/spacy-tutorials/blob/master/2_document_similarity.ipynb)**   
     1) TFIDF transformer > cosine similarity nearest neighbours  
     2) Document vector transformer > nearest neighbours
 
