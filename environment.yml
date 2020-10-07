@@ -14,4 +14,3 @@ dependencies:
   - gensim
   - nltk
   - pyldavis
-prefix: C:\Users\GGPC\anaconda3\envs\spacy
