@@ -2,6 +2,11 @@
 
 Re-usable code snippets for general NLP tasks using spaCy
 
+> Install environment for this repository using 
+```
+conda create --name spacy --file spec-file.txt
+```
+
 ## Table of contents
   1) **[Basics](https://github.com/James-Leslie/spacy-tutorials/blob/master/0_basics.ipynb)**  
     1) Tokenization  
