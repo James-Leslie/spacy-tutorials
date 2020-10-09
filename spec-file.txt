@@ -126,6 +126,7 @@ https://conda.anaconda.org/conda-forge/win-64/thinc-7.4.1-py37h1fb7aa8_0.tar.bz2
 https://conda.anaconda.org/conda-forge/win-64/spacy-2.3.2-py37h1fb7aa8_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/matplotlib-3.3.1-0.conda
 https://repo.anaconda.com/pkgs/main/win-64/matplotlib-base-3.3.1-py37hba9282a_0.conda
+https://conda.anaconda.org/conda-forge/win-64/wordcloud-1.8.0-py37h4ab8f01_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/mkl_fft-1.2.0-py37h45dec08_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/mkl_random-1.1.1-py37h47e9c7a_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/numpy-1.19.1-py37h5510c5b_0.conda
