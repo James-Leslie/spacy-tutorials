@@ -2,15 +2,15 @@ name: spacy
 channels:
   - defaults
 dependencies:
-  - python=3.7
   - pip
+  - python=3.7
   - pandas
-  - numpy
   - scikit-learn
-  - seaborn
   - ipykernel
   - matplotlib
+  - seaborn
   - spacy
-  - gensim
   - nltk
+  - gensim
   - pyldavis
+prefix: C:\Users\jamesl\AppData\Local\Continuum\anaconda3\envs\spacy
